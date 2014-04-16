@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WebApp Library</string>
+    <string name="load_error">Connection error.</string>
+    <string name="load_retry">Retry</string>
+    <string name="load_exit">Quit</string>
+</resources>
